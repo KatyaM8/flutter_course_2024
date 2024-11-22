@@ -53,7 +53,7 @@ class _HomeScreenState extends State<HomeScreen> {
       return;
     }
 
-    final apiKey = '4e310824e8950bb6eba6658cc6c1cae2';
+    final apiKey = '';
     final url =
         'https://api.openweathermap.org/data/2.5/weather?q=$city&appid=$apiKey&units=metric';
 
