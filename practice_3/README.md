@@ -8,13 +8,13 @@ initial
 Приложение использует API OpenWeatherMap для получения данных о погоде. Пользователь вводит название города в текстовое поле, после чего приложение отправляет запрос к API и отображает текущую температуру и иконку погоды.
 
 ## Скриншоты
-![Главный экран приложения](assets/images/Screenshots/главный экран.png)
+![Главный экран приложения](assets/images/Screenshots/главный_экран.png)
 
 ![Отображение_погоды](assets/images/Screenshots/погода.png)
 
-![Пустой_ввод](assets/images/Screenshots/пустое поле.png)
+![Пустой_ввод](assets/images/Screenshots/пустое_поле.png)
 
-![Неверный_ввод](assets/images/Screenshots/неверный ввод.png)
+![Неверный_ввод](assets/images/Screenshots/неверный_ввод.png)
 
 
 
